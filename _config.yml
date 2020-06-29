@@ -1,7 +1,7 @@
 title:              OpenWeasel
 email:              OpenWeasel@gmail.com
-description:        Software Blog
-author:             JamesHouston
+description:        Software Development Blog
+author:             OpenWeasel
 baseurl:            "/"
 url:                "https://openweasel.github.io"
 
